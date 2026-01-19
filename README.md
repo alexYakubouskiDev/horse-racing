@@ -1,3 +1,7 @@
+## Live Demo
+
+https://alexyakubouskidev.github.io/horse-racing/
+
 # Horse Racing Game
 
 Test assignment: a horse racing game built with Vue 2 and Vuex.
