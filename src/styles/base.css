@@ -1,0 +1,18 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: var(--font-main, system-ui, -apple-system, sans-serif);
+}
+
+#app {
+  background: var(--color-bg-app);
+}

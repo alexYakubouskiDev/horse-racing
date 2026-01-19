@@ -1,0 +1,34 @@
+:root {
+  --color-bg-app: #f2f2f2;
+  --color-bg-white: #fff;
+  --color-bg-grey: #ccc;
+  --color-track-green: #5b8c2a;
+  --color-program: #a7c7e7;
+  --color-results: #c3e6cb;
+  --color-horses: #f2c94c;
+  --color-round-title: #b35c5c;
+  --color-finish: #c62828;
+  --color-header: #f28b82;
+  --color-header-border: #d86f68;
+
+  --font-main: Inter, Arial, sans-serif;
+
+  --lane-height: 30px;
+  --lane-width: 28px;
+  --finish-line-width: 3px;
+  --gap-small: 8px;
+  --gap-medium: 20px;
+
+  --control-button-width: 140px;
+  --control-button-height: 32px;
+
+  --col-condition: 80px;
+  --col-position: 40px;
+  --col-color: 60px;
+  --space-row: 12px;
+
+  --lane-height: 30px;
+  --horse-height: 26px;
+  --horse-width: 40px;
+  --horse-icon-size: 32px;
+}
