@@ -1,5 +1,5 @@
 <template>
-  <div class="layout">
+  <main class="layout">
     <div class="layout__header">
       <ControlPanel />
     </div>
@@ -19,7 +19,7 @@
         <ProgramResults :rounds="rounds" :currentRound="currentRound" />
       </div>
     </div>
-  </div>
+  </main>
 </template>
 
 <script>
